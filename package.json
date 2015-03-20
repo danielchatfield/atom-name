@@ -1,6 +1,6 @@
 {
   "name": "atom-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check whether an atom package name is available.",
   "license": "MIT",
   "repository": "danielchatfield/atom-name",
