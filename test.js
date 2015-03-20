@@ -3,7 +3,7 @@ var assert = require('assert');
 var atomName = require('./');
 
 it('should return true when package name is available', function (cb) {
-	var name = Math.random().toString(36).substring(7);
+	var name = Math.random().toString(36).substring(20);
 	atomName(name, function (err, available) {
 		assert(!err, err);
 		assert(available);
