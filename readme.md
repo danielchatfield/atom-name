@@ -29,10 +29,10 @@ $ npm install --global atom-name
 ```
 
 ```
-$ npm-name --help
+$ atom-name --help
 
 	Usage
-	  npm-name <name>
+	  atom-name <name>
 
 	Exits with exit code 0 when available or 2 when taken.
 ```
